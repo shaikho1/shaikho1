@@ -1,8 +1,1 @@
-#include<iostream>
-using namespace std;
-  int main()
-  {
-  cout<<"hello world : i am a programmer " ;
-  return 0;
-  }
- 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
